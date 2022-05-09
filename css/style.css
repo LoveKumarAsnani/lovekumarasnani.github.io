@@ -366,9 +366,10 @@ img {
 /*----------- 5. Banner area css starts--------------*/
 
 .banner-area {
-  background-image: url(../images/about/sagheer.jpg); /*--edit image--*/
-  background-position: top;
+  background-image: url(../images/about/lovekumar.jpeg); /*--edit image--*/
+  background-position: center;
   background-size: cover;
+  /* background-repeat: ; */
   position: relative;
   height: 100%;
 }
